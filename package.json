@@ -1,0 +1,19 @@
+{
+  "name": "personal-site_vue",
+  "version": "1.0.0",
+  "description": "Matthew Brune Portfolio with Node.js and Vue.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bruneski/personal-site_vue.git"
+  },
+  "author": "Matthew Brune",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bruneski/personal-site_vue/issues"
+  },
+  "homepage": "https://github.com/bruneski/personal-site_vue"
+}
