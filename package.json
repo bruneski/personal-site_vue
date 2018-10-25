@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/bruneski/personal-site_vue/issues"
   },
-  "homepage": "https://github.com/bruneski/personal-site_vue"
+  "homepage": "https://github.com/bruneski/personal-site_vue",
+  "dependencies": {
+    "express": "^4.16.3",
+    "gulp": "^3.9.1",
+    "log4js": "^2.5.3",
+    "mongodb": "^3.0.7",
+    "vue": "^2.5.16"
+  }
 }
